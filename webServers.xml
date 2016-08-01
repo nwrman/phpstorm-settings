@@ -1,0 +1,23 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9b9565c1-ead3-4a76-9f37-406656276540" name="alpha.dev" url="http://alpha.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e128e4f3-42a3-4a49-811a-deac1be8e06a" name="Canacar" url="http://canacar.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e053b225-228e-4aaf-913e-eca29cfcb611" name="AlphaSites" url="http://hardin.alphahardin.com">
+        <fileTransfer host="hardin.alphahardin.com" port="22" rootFolder="/home/alphaweb0" accessType="SFTP" password="df92dfdfdf80dfc2df93dfffdfc8dfe9" username="alphaweb0">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c073e4a0-396d-47e4-9421-f6f0321bb22b" name="creh.dev" url="http://creh.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
