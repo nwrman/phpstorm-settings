@@ -1,9 +1,0 @@
-<templateSet group="html/xml">
-  <template name="timg" value="&lt;img src=&quot;&lt;?= get_template_directory_uri() ?&gt;/dist/images/$IMG$&quot;&#10;                 alt=&quot;$ALT$&quot;/&gt;" description="InsertTemplateImage" toReformat="true" toShortenFQNames="true">
-    <variable name="IMG" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="ALT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
-</templateSet>
