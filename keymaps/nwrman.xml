@@ -3,12 +3,16 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl 1" />
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
   </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
@@ -72,12 +76,16 @@
     <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl j" />
     <keyboard-shortcut first-keystroke="shift ctrl add" />
   </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
@@ -108,6 +116,12 @@
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="ImplementMethods" />
   <action id="IncrementalSearch">
