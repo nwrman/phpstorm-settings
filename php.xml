@@ -12,13 +12,13 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\etc\php\php.exe" id="e354f160-9d29-47c7-9c9a-9e75709f010e" name="PHP 7" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\php\ext\php_xdebug-2.4.0-7.0-vc14-nts-x86_64.dll" />
+      <interpreter home="C:\etc\php\php.exe" id="e354f160-9d29-47c7-9c9a-9e75709f010e" name="PHP 7" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\php\ext\php_xdebug-2.4.0-7.0-vc14-x86_64.dll" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="C:\etc\php\php-cgi.exe" php_cli="C:\etc\php\php.exe" path_separator=";" version="7.0.9">
+        <phpinfo binary_type="PHP" php_cgi="C:\etc\php\php-cgi.exe" php_cli="C:\etc\php\php.exe" path_separator=";" version="7.0.10RC1">
           <additional_php_ini />
           <configuration_file>C:\etc\php\php.ini</configuration_file>
           <configuration_options>
@@ -188,7 +188,13 @@
             <configuration_option name="session.use_trans_sid" value="0" />
             <configuration_option name="short_open_tag" value="" />
             <configuration_option name="smtp_port" value="25" />
+            <configuration_option name="soap.wsdl_cache" value="1" />
+            <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
+            <configuration_option name="soap.wsdl_cache_enabled" value="1" />
+            <configuration_option name="soap.wsdl_cache_limit" value="5" />
+            <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="" />
+            <configuration_option name="sqlite3.extension_dir" value="" />
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="1" />
             <configuration_option name="unserialize_callback_func" value="" />
@@ -306,6 +312,8 @@
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
             <extension name="session" />
+            <extension name="soap" />
+            <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
