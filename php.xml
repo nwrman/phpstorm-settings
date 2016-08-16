@@ -18,7 +18,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="C:\etc\php\php-cgi.exe" php_cli="C:\etc\php\php.exe" path_separator=";" version="7.0.10RC1">
+        <phpinfo binary_type="PHP" php_cgi="C:\etc\php\php-cgi.exe" php_cli="C:\etc\php\php.exe" path_separator=";" version="7.0.10RC1" warning="Failed loading C:\etc\php\ext\php_xdebug-2.4.0-7.0-vc14-x86_64.dll&#10;">
           <additional_php_ini />
           <configuration_file>C:\etc\php\php.ini</configuration_file>
           <configuration_options>
@@ -198,7 +198,7 @@
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="1" />
             <configuration_option name="unserialize_callback_func" value="" />
-            <configuration_option name="upload_max_filesize" value="2M" />
+            <configuration_option name="upload_max_filesize" value="250M" />
             <configuration_option name="upload_tmp_dir" value="" />
             <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=fakeentry" />
             <configuration_option name="user_agent" value="" />
@@ -242,14 +242,14 @@
             <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
             <configuration_option name="xdebug.profiler_output_dir" value="C:\Windows\Temp" />
-            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
+            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%t-%s" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
             <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
@@ -262,7 +262,7 @@
             <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
             <configuration_option name="xdebug.trace_format" value="0" />
             <configuration_option name="xdebug.trace_options" value="0" />
-            <configuration_option name="xdebug.trace_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.trace_output_dir" value="tmp" />
             <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
             <configuration_option name="xdebug.var_display_max_children" value="128" />
             <configuration_option name="xdebug.var_display_max_data" value="512" />
@@ -279,7 +279,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.4.0">
+            <debugger_info debugger="xdebug" debugger_version="2.4.1">
               <debug_extensions />
             </debugger_info>
           </debuggers>
