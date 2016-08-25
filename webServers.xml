@@ -8,7 +8,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="e053b225-228e-4aaf-913e-eca29cfcb611" name="AlphaSites" url="http://hardin.alphahardin.com">
-        <fileTransfer host="hardin.alphahardin.com" port="22" rootFolder="/home/alphaweb0" accessType="SFTP" password="df92dfdfdf80dfc2df93dfffdfc8dfe9" username="alphaweb0">
+        <fileTransfer host="hardin.alphahardin.com" port="22" rootFolder="/home/alphaweb0" accessType="SFTP">
           <advancedOptions>
             <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
           </advancedOptions>
@@ -19,5 +19,8 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAsPz0jkx+QF8DNwazNalDbWjU6X7ZDCAaJcvvY99YdYBmZ19makQbNaC7WRzQY44gUOq0bb3qzgnjEvNgqaHumP78HX7xYo8oLh2GR0FPNs+z/8BFyzVtqbr1GRPVyh8+d2+bdVfnYAWW44nWPvyt0XlY7HbYeMrW5TuFmVh3ADtxpR2uGGpSjx1/uQ0fIBEcdZn6axuTWDWxkT9FW1QRwKDTCQKgJsuBVSfPMYdWnp6VqvRsIjdWO+CInyfmt8Fa7g==</data>
   </component>
 </application>
