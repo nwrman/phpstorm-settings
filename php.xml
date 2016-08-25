@@ -12,13 +12,13 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\etc\php\php.exe" id="e354f160-9d29-47c7-9c9a-9e75709f010e" name="PHP 7" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\php\ext\php_xdebug-2.4.0-7.0-vc14-x86_64.dll" />
+      <interpreter home="C:\etc\php\php.exe" id="e354f160-9d29-47c7-9c9a-9e75709f010e" name="PHP 7" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\php\ext\php_xdebug-2.4.1-7.0-vc14-x86_64.dll" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="C:\etc\php\php-cgi.exe" php_cli="C:\etc\php\php.exe" path_separator=";" version="7.0.10RC1" warning="Failed loading C:\etc\php\ext\php_xdebug-2.4.0-7.0-vc14-x86_64.dll&#10;">
+        <phpinfo binary_type="PHP" php_cgi="C:\etc\php\php-cgi.exe" php_cli="C:\etc\php\php.exe" path_separator=";" version="7.0.10RC1">
           <additional_php_ini />
           <configuration_file>C:\etc\php\php.ini</configuration_file>
           <configuration_options>
