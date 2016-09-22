@@ -5,6 +5,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="*.kml.stub" type="XML" />
       <mapping ext="kml" type="XML" />
+      <mapping pattern="*.conf.j2" type="htaccess" />
     </extensionMap>
   </component>
 </application>
