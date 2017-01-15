@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '[CANACAR API] - ...\app'" />
-    <option name="defaultScopeName" value="Directory '[CANACAR API] - ...\app'" />
+    <option name="customScope" value="Project 'remision'" />
+    <option name="defaultScopeName" value="Project 'remision'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[CANACAR API] - ...\app'" />
+    <option name="SEARCH_SCOPE" value="Project 'remision'" />
   </component>
 </application>
