@@ -1,5 +1,7 @@
 <templateSet group="PHP">
   <template name="errs" value="&#10;error_reporting(E_ALL);&#10;ini_set('display_errors', 1);&#10;" description="Show all errors" toReformat="false" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
   </template>
 </templateSet>
