@@ -24,7 +24,7 @@
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
     <option name="WRAP_INSIDE_SELECT" value="2" />
-    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
