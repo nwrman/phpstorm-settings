@@ -26,6 +26,10 @@
     <option name="WRAP_INSIDE_SELECT" value="2" />
     <option name="QUOTE_IDENTIFIER" value="1" />
   </SqlCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
