@@ -20,7 +20,9 @@
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
-  <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jdbc.Execute">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="Console.Jpa.Execute" />
   <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.NextPage" />
@@ -71,9 +73,7 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="EditorStartNewLine" />
-  <action id="EditorStartNewLineBefore">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-  </action>
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl l" />
