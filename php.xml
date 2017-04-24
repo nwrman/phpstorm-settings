@@ -444,6 +444,8 @@
             <configuration_option name="pcre.backtrack_limit" value="1000000" />
             <configuration_option name="pcre.jit" value="1" />
             <configuration_option name="pcre.recursion_limit" value="100000" />
+            <configuration_option name="pdo_sqlsrv.client_buffer_max_kb_size" value="10240" />
+            <configuration_option name="pdo_sqlsrv.log_severity" value="0" />
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
@@ -497,6 +499,10 @@
             <configuration_option name="soap.wsdl_cache_limit" value="5" />
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="" />
+            <configuration_option name="sqlsrv.ClientBufferMaxKBSize" value="10240" />
+            <configuration_option name="sqlsrv.LogSeverity" value="0" />
+            <configuration_option name="sqlsrv.LogSubsystems" value="0" />
+            <configuration_option name="sqlsrv.WarningsReturnAsErrors" value="1" />
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="1" />
             <configuration_option name="unserialize_callback_func" value="" />
@@ -617,8 +623,10 @@
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
+            <extension name="pdo_sqlsrv" />
             <extension name="session" />
             <extension name="soap" />
+            <extension name="sqlsrv" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
