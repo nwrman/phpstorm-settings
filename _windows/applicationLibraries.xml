@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="conekta" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_conektaapi.s3.amazonaws.com_v0.3.2_js_conekta.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_conektaapi.s3.amazonaws.com_v0.3.2_js_conekta.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery.fancybox" type="javaScript">
       <properties>
         <sourceFilesUrls>
