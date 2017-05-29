@@ -11,6 +11,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="form-builder" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_formbuilder.online_assets_js_form-builder.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_formbuilder.online_assets_js_form-builder.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery.fancybox" type="javaScript">
       <properties>
         <sourceFilesUrls>
