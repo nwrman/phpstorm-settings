@@ -11,6 +11,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="bootstrap-datepicker.es" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datepicker_1.6.4_locales_bootstrap-datepicker.es.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datepicker_1.6.4_locales_bootstrap-datepicker.es.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="conekta" type="javaScript">
       <properties>
         <sourceFilesUrls>
