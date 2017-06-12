@@ -1,7 +1,0 @@
-<templateSet group="user">
-  <template name="&lt;abbreviation&gt;" value="/** @test */&#10;    public function can_()&#10;    {&#10;        &#10;    }" description="" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="PHP Class Member" value="true" />
-    </context>
-  </template>
-</templateSet>
