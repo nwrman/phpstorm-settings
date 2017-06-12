@@ -1,5 +1,27 @@
 <application>
   <component name="libraryTable">
+    <library name="bootstrap-datepicker" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datepicker_1.6.4_js_bootstrap-datepicker.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datepicker_1.6.4_js_bootstrap-datepicker.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap-datepicker.es" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datepicker_1.6.4_locales_bootstrap-datepicker.es.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datepicker_1.6.4_locales_bootstrap-datepicker.es.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="conekta" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -8,6 +30,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_conektaapi.s3.amazonaws.com_v0.3.2_js_conekta.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="form-builder" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_formbuilder.online_assets_js_form-builder.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_formbuilder.online_assets_js_form-builder.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
