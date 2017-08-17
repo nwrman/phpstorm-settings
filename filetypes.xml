@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="info" type="Ini" />
+      <mapping pattern="ExportExpense.bak" type="PHP" />
       <mapping pattern="Observers\QuoteObserver" type="PHP" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
