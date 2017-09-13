@@ -3,7 +3,6 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="lang*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -27,6 +26,7 @@
       <mask>lan</mask>
       <mask>lang</mask>
       <mask>lang*</mask>
+      <mask>]</mask>
     </recentFileMasks>
   </component>
 </application>
