@@ -1,10 +1,10 @@
-<code_scheme name="Default (1)">
+<code_scheme name="nwr">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <CssCodeStyleSettings>
     <option name="VALUE_ALIGNMENT" value="2" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
@@ -27,7 +27,7 @@
     <option name="QUOTE_IDENTIFIER" value="1" />
   </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
