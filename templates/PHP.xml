@@ -10,7 +10,7 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="ci" value="clock()-&gt;info($END$);" description="Console info" toReformat="false" toShortenFQNames="true">
+  <template name="ci" value="clock($END$);" description="Console info" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
