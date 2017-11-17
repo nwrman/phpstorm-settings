@@ -146,6 +146,10 @@
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -179,6 +183,7 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="hg4idea.push" />
 </keymap>
