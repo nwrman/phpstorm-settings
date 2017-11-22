@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,11 +15,9 @@
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -29,6 +28,10 @@
       <mask>lang</mask>
       <mask>lang*</mask>
       <mask>]</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
