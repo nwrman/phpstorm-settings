@@ -14,7 +14,7 @@
     <interpreters>
       <interpreter home="C:\etc\php71\php.exe" id="e354f160-9d29-47c7-9c9a-9e75709f010e" name="PHP 7.1" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\php71\ext\php_xdebug-2.5.4-7.1-vc14-nts-x86_64.dll" />
       <interpreter home="D:\projects\infac\xampp_php54\php\php.exe" id="e21c79ed-8dba-4a68-9c22-86cb75032fd2" name="PHP54" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\etc\php7.0\php.exe" id="49cddfea-d88a-4f97-8e52-4b3b0fdf4e18" name="PHP 7.0" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\php7.0\ext\php_xdebug-2.4.1-7.0-vc14-x86_64.dll" />
+      <interpreter home="C:\etc\xampp\php\php.exe" id="49cddfea-d88a-4f97-8e52-4b3b0fdf4e18" name="PHP 7.0" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\xampp\php\ext\php_xdebug-2.5.4-7.0-vc14.dll" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -331,9 +331,9 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.0">
-        <phpinfo binary_type="PHP" php_cgi="C:\etc\php7.0\php-cgi.exe" php_cli="C:\etc\php7.0\php.exe" path_separator=";" version="7.0.10RC1">
+        <phpinfo binary_type="PHP" php_cgi="C:\etc\xampp\php\php-cgi.exe" php_cli="C:\etc\xampp\php\php.exe" path_separator=";" version="7.0.25" warning="Failed loading C:\etc\xampp\php\ext\php_xdebug-2.5.4-7.0-vc14&#10;PHP Warning:  Module 'openssl' already loaded in Unknown on line 0&#10;">
           <additional_php_ini />
-          <configuration_file>C:\etc\php7.0\php.ini</configuration_file>
+          <configuration_file>C:\etc\xampp\php\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -351,13 +351,13 @@
             <configuration_option name="auto_globals_jit" value="1" />
             <configuration_option name="auto_prepend_file" value="" />
             <configuration_option name="bcmath.scale" value="0" />
-            <configuration_option name="browscap" value="" />
-            <configuration_option name="curl.cainfo" value="" />
+            <configuration_option name="browscap" value="C:\etc\xampp\php\extras\browscap.ini" />
+            <configuration_option name="curl.cainfo" value="C:\etc\xampp\apache\bin\curl-ca-bundle.crt" />
             <configuration_option name="date.default_latitude" value="31.7667" />
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="" />
+            <configuration_option name="date.timezone" value="Europe/Berlin" />
             <configuration_option name="default_charset" value="UTF-8" />
             <configuration_option name="default_mimetype" value="text/html" />
             <configuration_option name="default_socket_timeout" value="60" />
@@ -371,9 +371,9 @@
             <configuration_option name="enable_dl" value="" />
             <configuration_option name="enable_post_data_reading" value="1" />
             <configuration_option name="error_append_string" value="" />
-            <configuration_option name="error_log" value="" />
+            <configuration_option name="error_log" value="C:\etc\xampp\php\logs\php_error_log" />
             <configuration_option name="error_prepend_string" value="" />
-            <configuration_option name="error_reporting" value="32767" />
+            <configuration_option name="error_reporting" value="22527" />
             <configuration_option name="exif.decode_jis_intel" value="JIS" />
             <configuration_option name="exif.decode_jis_motorola" value="JIS" />
             <configuration_option name="exif.decode_unicode_intel" value="UCS-2LE" />
@@ -382,7 +382,7 @@
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="ext" />
+            <configuration_option name="extension_dir" value="C:\etc\xampp\php\ext" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -401,7 +401,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".;C:\php\pear" />
+            <configuration_option name="include_path" value="C:\etc\xampp\php\PEAR" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -429,7 +429,7 @@
             <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
-            <configuration_option name="memory_limit" value="2048M" />
+            <configuration_option name="memory_limit" value="128M" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
@@ -461,14 +461,12 @@
             <configuration_option name="pcre.backtrack_limit" value="1000000" />
             <configuration_option name="pcre.jit" value="1" />
             <configuration_option name="pcre.recursion_limit" value="100000" />
-            <configuration_option name="pdo_sqlsrv.client_buffer_max_kb_size" value="10240" />
-            <configuration_option name="pdo_sqlsrv.log_severity" value="0" />
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="post_max_size" value="8M" />
             <configuration_option name="precision" value="14" />
-            <configuration_option name="realpath_cache_size" value="16K" />
+            <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
@@ -496,7 +494,7 @@
             <configuration_option name="session.name" value="PHPSESSID" />
             <configuration_option name="session.referer_check" value="" />
             <configuration_option name="session.save_handler" value="files" />
-            <configuration_option name="session.save_path" value="" />
+            <configuration_option name="session.save_path" value="C:\etc\xampp\tmp" />
             <configuration_option name="session.serialize_handler" value="php" />
             <configuration_option name="session.upload_progress.cleanup" value="1" />
             <configuration_option name="session.upload_progress.enabled" value="1" />
@@ -510,21 +508,12 @@
             <configuration_option name="session.use_trans_sid" value="0" />
             <configuration_option name="short_open_tag" value="" />
             <configuration_option name="smtp_port" value="25" />
-            <configuration_option name="soap.wsdl_cache" value="1" />
-            <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
-            <configuration_option name="soap.wsdl_cache_enabled" value="1" />
-            <configuration_option name="soap.wsdl_cache_limit" value="5" />
-            <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="" />
-            <configuration_option name="sqlsrv.ClientBufferMaxKBSize" value="10240" />
-            <configuration_option name="sqlsrv.LogSeverity" value="0" />
-            <configuration_option name="sqlsrv.LogSubsystems" value="0" />
-            <configuration_option name="sqlsrv.WarningsReturnAsErrors" value="1" />
             <configuration_option name="sys_temp_dir" value="" />
-            <configuration_option name="track_errors" value="1" />
+            <configuration_option name="track_errors" value="" />
             <configuration_option name="unserialize_callback_func" value="" />
-            <configuration_option name="upload_max_filesize" value="250M" />
-            <configuration_option name="upload_tmp_dir" value="" />
+            <configuration_option name="upload_max_filesize" value="2M" />
+            <configuration_option name="upload_tmp_dir" value="C:\etc\xampp\tmp" />
             <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=fakeentry" />
             <configuration_option name="user_agent" value="" />
             <configuration_option name="user_dir" value="" />
@@ -604,7 +593,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.4.1">
+            <debugger_info debugger="xdebug" debugger_version="2.5.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -625,6 +614,7 @@
             <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
+            <extension name="ftp" />
             <extension name="gd" />
             <extension name="gettext" />
             <extension name="hash" />
@@ -640,10 +630,7 @@
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
-            <extension name="pdo_sqlsrv" />
             <extension name="session" />
-            <extension name="soap" />
-            <extension name="sqlsrv" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
