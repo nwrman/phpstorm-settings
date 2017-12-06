@@ -331,7 +331,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.0">
-        <phpinfo binary_type="PHP" php_cgi="C:\etc\xampp\php\php-cgi.exe" php_cli="C:\etc\xampp\php\php.exe" path_separator=";" version="7.0.25" warning="Failed loading C:\etc\xampp\php\ext\php_xdebug-2.5.4-7.0-vc14&#10;PHP Warning:  Module 'openssl' already loaded in Unknown on line 0&#10;">
+        <phpinfo binary_type="PHP" php_cgi="C:\etc\xampp\php\php-cgi.exe" php_cli="C:\etc\xampp\php\php.exe" path_separator=";" version="7.0.25" warning="Cannot load Xdebug - it was already loaded&#10;">
           <additional_php_ini />
           <configuration_file>C:\etc\xampp\php\php.ini</configuration_file>
           <configuration_options>
