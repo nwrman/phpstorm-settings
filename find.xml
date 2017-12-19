@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,7 +14,6 @@
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
       <mask>*.c</mask>
@@ -31,6 +31,9 @@
       <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>t</mask>
+      <mask>tpl</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
