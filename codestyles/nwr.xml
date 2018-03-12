@@ -1,5 +1,6 @@
 <code_scheme name="nwr" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <CssCodeStyleSettings>
     <option name="VALUE_ALIGNMENT" value="2" />
   </CssCodeStyleSettings>
