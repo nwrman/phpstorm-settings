@@ -62,6 +62,21 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="jquery-modal-video" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_modal-video@2.0.1_js_jquery-modal-video.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_modal-video@2.0.1_js_jquery-modal-video.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
     <library name="jquery.fancybox" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -70,6 +85,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_fancybox_2.1.5_jquery.fancybox.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="modal-video" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_modal-video@2.0.1_js_modal-video.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_modal-video@2.0.1_js_modal-video.js" />
       </CLASSES>
       <SOURCES />
     </library>
