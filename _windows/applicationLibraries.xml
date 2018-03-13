@@ -73,6 +73,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="plyr" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.plyr.io_2.0.18_plyr.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.plyr.io_2.0.18_plyr.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="promise-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
