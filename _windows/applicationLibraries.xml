@@ -99,6 +99,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="OneSignalSDK" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.onesignal.com_sdks_OneSignalSDK.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.onesignal.com_sdks_OneSignalSDK.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="plyr" type="javaScript">
       <properties>
         <sourceFilesUrls>
