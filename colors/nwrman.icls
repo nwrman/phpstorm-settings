@@ -768,7 +768,8 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="3b3b3c" />
+        <option name="BACKGROUND" value="151515" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
