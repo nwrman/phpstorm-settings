@@ -11,6 +11,7 @@
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="child" type="PLAIN_TEXT" />
       <mapping pattern="*.kml.stub" type="XML" />
       <mapping ext="pol" type="XML" />
       <mapping ext="kml" type="XML" />
