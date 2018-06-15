@@ -7,6 +7,9 @@
       <webServer id="52575c94-8002-4bde-9082-1e41ec877487" name="universo.test" url="http://universo.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="cc9d482c-dbf6-4c20-9309-740027a6d9c0" name="mapo.test" url="http://mapo.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
