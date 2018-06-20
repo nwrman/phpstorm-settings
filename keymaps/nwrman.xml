@@ -2,6 +2,9 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="CakeStorm.HorizontalSmartJump" />
+  <action id="CakeStorm.SmartJump" />
+  <action id="CakeStorm.VerticalSmartJump" />
   <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
