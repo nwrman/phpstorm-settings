@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ExampleTest.testBasicTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ExampleTest.testBasicTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LinkCfdiTest.it_can_link_cfdi_from_poliza_and_expense'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
