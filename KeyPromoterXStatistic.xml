@@ -9,11 +9,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Home Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
+          <ShortCut>'Ctrl+1'</ShortCut>
+          <Description>Home Directory</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoProject</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Project Directory</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -71,6 +87,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tests'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unlink Cfdis'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unlink Cfdis'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LinkCfdiTest.it_can_link_cfdi_from_poliza_and_expense'">
