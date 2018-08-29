@@ -129,6 +129,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'production'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'production'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'LinkCfdiTest.it_can_link_cfdi_from_poliza_and_expense'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
