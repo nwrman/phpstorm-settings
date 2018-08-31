@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncExpenseTest.it_can_export_advance_to_providers'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncExpenseTest.it_can_export_advance_to_providers'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SyncExpenseTest.it_can_sync_expense'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -159,6 +167,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'LinkCfdiTest.it_can_link_cfdi_from_poliza_and_expense'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SyncExpenseTest.it_can_export_advance_to_providers'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncExpenseTest.it_can_export_advance_to_providers'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SyncExpenseTest.it_can_sync_expense'">
