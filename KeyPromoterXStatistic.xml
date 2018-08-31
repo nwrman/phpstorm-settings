@@ -169,6 +169,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SyncExpenseTest.it_can_cancel_advance_with_CP'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncExpenseTest.it_can_cancel_advance_with_CP'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SyncExpenseTest.it_can_export_advance_to_providers'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
