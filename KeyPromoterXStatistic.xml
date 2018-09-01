@@ -121,6 +121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncExpenseTest.it_can_sync_CP_caja_chica_expense_with_non_deductible'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncExpenseTest.it_can_sync_CP_caja_chica_expense_with_non_deductible'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SyncExpenseTest.it_can_sync_expense'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -215,6 +223,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncExpenseTest.it_can_export_advance_to_providers'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SyncExpenseTest.it_can_sync_CP_caja_chica_expense_with_non_deductible'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncExpenseTest.it_can_sync_CP_caja_chica_expense_with_non_deductible'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SyncExpenseTest.it_can_sync_expense'">
