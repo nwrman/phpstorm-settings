@@ -209,6 +209,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'PolizaTest.it_creates_reembolso_caja_chica_with_cfdi_with_no_folio'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'PolizaTest.it_creates_reembolso_caja_chica_with_cfdi_with_no_folio'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PolizaTest.it_creates_reembolso_caja_chica_with_discount'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
