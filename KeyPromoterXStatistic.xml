@@ -169,6 +169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncExpenseTest.it_can_export_advance_to_collaborators_with_Eg'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncExpenseTest.it_can_export_advance_to_collaborators_with_Eg'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SyncExpenseTest.it_can_export_advance_to_providers'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -326,6 +334,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncExpenseTest.it_can_cancel_provider_advance_with_CP'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SyncExpenseTest.it_can_export_advance_to_collaborators_with_Eg'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncExpenseTest.it_can_export_advance_to_collaborators_with_Eg'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
