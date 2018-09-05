@@ -97,6 +97,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PolizaTest.it_generates_poliza_from_spreaded_expense'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'PolizaTest.it_generates_poliza_from_spreaded_expense'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PolizaTest.it_parses_retenciones'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -247,6 +255,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PolizaTest.it_creates_reembolso_caja_chica_with_discount'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PolizaTest.it_generates_poliza_from_spreaded_expense'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'PolizaTest.it_generates_poliza_from_spreaded_expense'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PolizaTest.it_parses_retenciones'">
