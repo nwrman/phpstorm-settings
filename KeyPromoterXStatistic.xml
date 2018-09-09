@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncExpenseTest.it_can_export_in_favor_advance_to_collaborators_with_Eg'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncExpenseTest.it_can_export_in_favor_advance_to_collaborators_with_Eg'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SyncExpenseTest.it_can_sync_CP_caja_chica_expense_with_non_deductible'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -246,7 +254,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tests'</Description>
-          <Count>38</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unlink Cfdis'">
