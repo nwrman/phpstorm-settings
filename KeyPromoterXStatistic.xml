@@ -153,6 +153,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Run Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Run Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Show Record Info'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -263,6 +271,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Remove Expense'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Run Tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Run Tests'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Show Record Info'">
