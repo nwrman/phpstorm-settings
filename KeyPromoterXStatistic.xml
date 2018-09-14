@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="New...">
+        <Item>
+          <IdeaActionID>NewElement</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>New...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
