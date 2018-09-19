@@ -113,6 +113,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'EventTest.admin_can_list_all_events'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'EventTest.admin_can_list_all_events'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ExampleTest.testBasicTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -337,6 +345,14 @@
           <Count>48</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'EventTest.admin_can_list_all_events'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'EventTest.admin_can_list_all_events'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Export Products'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -382,7 +398,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Run tests'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Show Record Info'">
@@ -431,6 +447,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'BoxListenerTest.a_job_is_not_queued_if_a_cover_is_not_present'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EventTest.admin_can_list_all_events'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'EventTest.admin_can_list_all_events'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Export Expense'">
