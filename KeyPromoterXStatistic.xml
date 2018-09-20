@@ -233,6 +233,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PublicRegistrationTest.public_can_register_to_event'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'PublicRegistrationTest.public_can_register_to_event'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Remove Expense'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -590,6 +598,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PolizaTest.it_sets_centro_costos_and_branch_condesa'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PublicRegistrationTest.public_can_register_to_event'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'PublicRegistrationTest.public_can_register_to_event'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
