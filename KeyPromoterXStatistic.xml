@@ -142,7 +142,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'EventTest.can_ignore_empty_attributes'</Description>
-          <Count>1</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ExampleTest.testBasicTest'">
@@ -374,7 +374,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Dusk'">
@@ -503,6 +503,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'EventTest.admin_can_list_all_events'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EventTest.can_ignore_empty_attributes'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'EventTest.can_ignore_empty_attributes'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Export Expense'">
