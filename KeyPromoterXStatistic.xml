@@ -390,7 +390,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Dusk'">
@@ -742,6 +742,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncInvoiceTest.it_can_sync_FA_invoice_with_discount'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ViewEventListingTest.it_can_load_recent_and_current_events_listing_for_admin (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ViewEventListingTest.it_can_load_recent_and_current_events_listing_for_admin (1)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
