@@ -777,6 +777,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SyncInvoiceTest.it_can_sync_exact_Ig_invoice'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncInvoiceTest.it_can_sync_exact_Ig_invoice'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ViewEventListingTest.it_can_filter_events_by_group'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
