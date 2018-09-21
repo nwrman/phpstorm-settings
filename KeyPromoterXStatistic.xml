@@ -529,6 +529,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CfdiXmlTest.it_extracts_retenciones_taxes_from_v33'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CfdiXmlTest.it_extracts_retenciones_taxes_from_v33'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'EventTest.admin_can_list_all_events'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
