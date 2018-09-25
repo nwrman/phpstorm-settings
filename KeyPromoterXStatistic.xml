@@ -529,6 +529,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Show Diff</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'AuthTest.valid_user_can_ask_to_reset_password'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
