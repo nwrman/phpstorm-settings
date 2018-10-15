@@ -145,6 +145,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CancelPolizaTest.it_can_cancel_poliza_CP'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'CancelPolizaTest.it_can_cancel_poliza_CP'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ConektaPaymentGatewayTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -606,6 +614,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'BoxListenerTest.a_job_is_not_queued_if_a_cover_is_not_present'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CancelPolizaTest.it_can_cancel_poliza_CP'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CancelPolizaTest.it_can_cancel_poliza_CP'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
