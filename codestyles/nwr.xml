@@ -5,6 +5,7 @@
     <option name="VALUE_ALIGNMENT" value="2" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
