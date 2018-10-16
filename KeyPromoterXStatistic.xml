@@ -865,6 +865,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SyncInvoiceTest.it_can_sync_FA_USD_invoice_with_discount'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncInvoiceTest.it_can_sync_FA_USD_invoice_with_discount'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SyncInvoiceTest.it_can_sync_FA_invoice'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
