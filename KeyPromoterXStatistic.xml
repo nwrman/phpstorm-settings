@@ -441,6 +441,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncInvoiceTest.it_can_sync_FA_invoice_for_nota_credito_exact_original_amount'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncInvoiceTest.it_can_sync_FA_invoice_for_nota_credito_exact_original_amount'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ViewEventListingTest.can_not_get_list_of_tickets_for_a_particular_event_when_not_authorized'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -462,7 +470,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>66</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Dusk'">
@@ -550,7 +558,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tests'</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unlink Cfdis'">
@@ -886,6 +894,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncInvoiceTest.it_can_sync_FA_invoice'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SyncInvoiceTest.it_can_sync_FA_invoice_for_nota_credito_exact_original_amount'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncInvoiceTest.it_can_sync_FA_invoice_for_nota_credito_exact_original_amount'</Description>
           <Count>6</Count>
         </Item>
       </Statistic>
