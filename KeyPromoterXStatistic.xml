@@ -609,14 +609,6 @@
           <Count>12</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'production'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'production'</Description>
-          <Count>15</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'watch'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1014,7 +1006,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'watch'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -1041,6 +1033,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'hmr'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'production'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'production'</Description>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
