@@ -457,6 +457,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ViewEventListingTest.can_not_get_list_of_tickets_for_a_particular_event_when_not_authorized'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -575,14 +583,6 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'SyncExpenseTest.it_can_export_in_counter_favor_advance_to_collaborators_with_Eg'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'Tests'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'Tests'</Description>
-          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unlink Cfdis'">
@@ -1025,6 +1025,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Tests'</Description>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'hmr'">
