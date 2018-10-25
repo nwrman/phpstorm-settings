@@ -22,7 +22,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Export Expense'">
@@ -510,7 +510,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>100</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Dusk'">
@@ -1006,7 +1006,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ionic:serve'">
