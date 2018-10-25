@@ -481,6 +481,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncInvoiceTest.it_can_sync_exact_Ig_invoice'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncInvoiceTest.it_can_sync_exact_Ig_invoice'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Tests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
