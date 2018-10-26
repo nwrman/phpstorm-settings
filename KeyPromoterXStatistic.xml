@@ -481,6 +481,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncInvoiceTest.it_can_sync_Ig_invoice_with_different_payment_and_poliza_date'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncInvoiceTest.it_can_sync_Ig_invoice_with_different_payment_and_poliza_date'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SyncInvoiceTest.it_can_sync_exact_Ig_invoice'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -983,6 +991,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncInvoiceTest.it_can_sync_FA_invoice_with_discount'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SyncInvoiceTest.it_can_sync_Ig_invoice_with_different_payment_and_poliza_date'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncInvoiceTest.it_can_sync_Ig_invoice_with_different_payment_and_poliza_date'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SyncInvoiceTest.it_can_sync_exact_Ig_invoice'">
