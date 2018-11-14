@@ -241,6 +241,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MakeCoiPeriodTest.if_period_already_exists_dont_do_anything'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'MakeCoiPeriodTest.if_period_already_exists_dont_do_anything'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MyEventsTest.guest_user_can_see_a_public_ticket'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -782,6 +790,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'MagazineTest.it_can_get_latest_issue'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MakeCoiPeriodTest.if_period_already_exists_dont_do_anything'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MakeCoiPeriodTest.if_period_already_exists_dont_do_anything'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
