@@ -318,7 +318,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Resync Expenses'">
@@ -511,6 +511,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'SyncInvoiceTest.it_can_sync_exact_Ig_invoice'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SyncInvoiceTest.it_updates_poliza_for_same_period_using_same_bank_transaction_id'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncInvoiceTest.it_updates_poliza_for_same_period_using_same_bank_transaction_id'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Tests'">
@@ -1039,6 +1047,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncInvoiceTest.it_can_sync_exact_Ig_invoice'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SyncInvoiceTest.it_updates_poliza_for_same_period_using_same_bank_transaction_id'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncInvoiceTest.it_updates_poliza_for_same_period_using_same_bank_transaction_id'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tests'">
