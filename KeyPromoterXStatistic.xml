@@ -558,7 +558,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>144</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Dusk'">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>76</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ionic:serve'">
