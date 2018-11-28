@@ -649,6 +649,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SyncInvoiceTest.it_updates_poliza_for_same_period_using_same_bank_transaction_id'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'SyncInvoiceTest.it_updates_poliza_for_same_period_using_same_bank_transaction_id'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unlink Cfdis'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
