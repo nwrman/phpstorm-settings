@@ -366,7 +366,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Resync Expenses'">
@@ -398,6 +398,22 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Show Record Info'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SyncExpense19Test.it_can_sync_CP_expense'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncExpense19Test.it_can_sync_CP_expense'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SyncExpense19Test.it_can_sync_Eg_expense_caja_chica'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncExpense19Test.it_can_sync_Eg_expense_caja_chica'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -951,6 +967,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PublicRegistrationTest.public_can_register_to_event'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SyncExpense19Test.it_can_sync_CP_expense'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncExpense19Test.it_can_sync_CP_expense'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SyncExpenseTest.it_adds_expense_cfdis_to_poliza_eg_and_updates_total'">
