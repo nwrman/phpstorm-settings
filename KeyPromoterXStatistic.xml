@@ -1081,6 +1081,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SyncInvoice19Test.it_updates_poliza_for_same_period_using_same_bank_transaction_id'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncInvoice19Test.it_updates_poliza_for_same_period_using_same_bank_transaction_id'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SyncInvoiceTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
