@@ -569,6 +569,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncInvoiceTest.it_can_sync_in_favor_Ig_invoice'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncInvoiceTest.it_can_sync_in_favor_Ig_invoice'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SyncInvoiceTest.it_updates_poliza_for_same_period_using_same_bank_transaction_id'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -614,7 +622,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>161</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Dusk'">
@@ -1145,12 +1153,20 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SyncInvoiceTest.it_can_sync_in_favor_Ig_invoice'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncInvoiceTest.it_can_sync_in_favor_Ig_invoice'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SyncInvoiceTest.it_updates_poliza_for_same_period_using_same_bank_transaction_id'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncInvoiceTest.it_updates_poliza_for_same_period_using_same_bank_transaction_id'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tests'">
