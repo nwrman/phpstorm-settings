@@ -57,6 +57,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Match Polizas Expenses'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Match Polizas Expenses'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Old Export Expense'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -910,6 +918,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'MakeCoiPeriodTest.if_period_already_exists_dont_do_anything'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Match Polizas Expenses'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Match Polizas Expenses'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
