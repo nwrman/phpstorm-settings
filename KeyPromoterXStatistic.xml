@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'InvoiceSync'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Match Polizas Expenses'">
@@ -537,6 +537,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncInvoice19Test.it_can_sync_Ig_invoice_with_different_dates'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncInvoice19Test.it_can_sync_Ig_invoice_with_different_dates'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SyncInvoiceTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -886,7 +894,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'InvoiceSync'</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LinkCfdiTest.it_can_link_cfdi_from_poliza_and_expense'">
@@ -1119,6 +1127,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncExpenseTest.it_creates_CP_with_spreaded_expense_and_local_tax'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SyncInvoice19Test.it_can_sync_Ig_invoice_with_different_dates'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncInvoice19Test.it_can_sync_Ig_invoice_with_different_dates'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SyncInvoice19Test.it_updates_poliza_for_same_period_using_same_bank_transaction_id'">
