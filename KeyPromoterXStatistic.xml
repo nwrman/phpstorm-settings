@@ -129,6 +129,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Jump to Console...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New...">
         <Item>
           <IdeaActionID>NewElement</IdeaActionID>
@@ -790,7 +798,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'watch'</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
