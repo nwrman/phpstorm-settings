@@ -249,6 +249,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'EventTest.when_editing_existing_event_USD_option_is_unavailable'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'EventTest.when_editing_existing_event_USD_option_is_unavailable'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ExampleTest.testBasicTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
