@@ -1366,7 +1366,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>138</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ionic:serve'">
