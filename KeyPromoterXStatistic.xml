@@ -593,6 +593,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncExpenseTest.it_fails_for_cp_if_it_would_affect_a_period_already_closed_on_COI'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncExpenseTest.it_fails_for_cp_if_it_would_affect_a_period_already_closed_on_COI'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SyncInvoice19Test.it_can_sync_Ig_invoice_with_different_dates'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1215,6 +1223,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncExpenseTest.it_creates_CP_with_spreaded_expense_and_local_tax'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SyncExpenseTest.it_fails_for_cp_if_it_would_affect_a_period_already_closed_on_COI'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncExpenseTest.it_fails_for_cp_if_it_would_affect_a_period_already_closed_on_COI'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SyncInvoice19Test.it_can_sync_Ig_invoice_with_different_dates'">
