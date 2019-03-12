@@ -225,6 +225,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CfdiXmlTest.it_extracts_taxes_with_several_ish'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'CfdiXmlTest.it_extracts_taxes_with_several_ish'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ConektaPaymentGatewayTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -918,6 +926,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'CfdiXmlTest.it_extracts_retenciones_taxes_from_v33'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CfdiXmlTest.it_extracts_taxes_with_several_ish'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CfdiXmlTest.it_extracts_taxes_with_several_ish'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
