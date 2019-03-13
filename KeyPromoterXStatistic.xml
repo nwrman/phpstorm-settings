@@ -209,6 +209,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AuthTest.valid_user_can_ask_to_reset_password'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
