@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Cancel Expense Poliza'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Cancel Expense Poliza'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Export Expense'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -223,6 +231,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'AuthTest.valid_user_can_ask_to_reset_password'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Cancel Expense Poliza'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Cancel Expense Poliza'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CancelPolizaTest.it_can_cancel_poliza_CP'">
@@ -919,6 +935,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'BoxListenerTest.a_job_is_not_queued_if_a_cover_is_not_present'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Cancel Expense Poliza'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Cancel Expense Poliza'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CancelPolizaTest.it_can_cancel_poliza_CP'">
