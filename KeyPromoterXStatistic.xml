@@ -774,7 +774,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>246</Count>
+          <Count>247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Cancel Expense Poliza'">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>166</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ionic:serve'">
