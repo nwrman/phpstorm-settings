@@ -393,6 +393,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MagazineTest.it_can_load_magazine'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'MagazineTest.it_can_load_magazine'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MakeCoiPeriodTest.if_period_already_exists_dont_do_anything'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -841,6 +849,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MagazineTest.it_can_load_magazine'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'MagazineTest.it_can_load_magazine'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Match Polizas Expenses'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -886,7 +902,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Run tests'</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Show Record Info'">
