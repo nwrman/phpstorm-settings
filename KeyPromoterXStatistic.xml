@@ -73,6 +73,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Import Stickers'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Import Stickers'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'InvoiceSync'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -374,6 +382,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'ExportExpenseTest.it_generates_reimbursment_to_collaborators_account'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Import Stickers'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Import Stickers'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1135,6 +1151,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Gulp watch'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Import Stickers'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Import Stickers'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'InvoiceSync'">
