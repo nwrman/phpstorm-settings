@@ -65,6 +65,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Export Invoices'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Export Invoices'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Export Products'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1159,6 +1167,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Export Expense'</Description>
           <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Export Invoices'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Export Invoices'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Export Products'">
