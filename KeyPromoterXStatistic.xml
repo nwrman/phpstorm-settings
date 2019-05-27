@@ -849,6 +849,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'watch'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'watch'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -1070,7 +1078,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'watch'</Description>
-          <Count>72</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
