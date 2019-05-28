@@ -1382,7 +1382,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncExpense19Test.it_can_sync_CP_expense_with_nota_credito'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SyncExpenseTest.it_adds_expense_cfdis_to_poliza_eg_and_updates_total'">
