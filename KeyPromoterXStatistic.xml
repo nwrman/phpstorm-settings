@@ -313,6 +313,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CancelInvoicePolizaTest.it_can_cancel_poliza_FA_and_Ig'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'CancelInvoicePolizaTest.it_can_cancel_poliza_FA_and_Ig'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CancelPolizaTest.it_can_cancel_poliza_CP'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1143,6 +1151,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Cancel Invoice Poliza'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CancelInvoicePolizaTest.it_can_cancel_poliza_FA_2019'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CancelInvoicePolizaTest.it_can_cancel_poliza_FA_2019'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CancelPolizaTest.it_can_cancel_poliza_CP'">
