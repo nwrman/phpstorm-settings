@@ -225,6 +225,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="My Action Text">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'F12' or 'Ctrl+B'</ShortCut>
+          <Description>My Action Text</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New...">
         <Item>
           <IdeaActionID>NewElement</IdeaActionID>
