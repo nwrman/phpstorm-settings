@@ -89,6 +89,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Import Expense Polizas'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Import Expense Polizas'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Import Stickers'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1287,6 +1295,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Gulp watch'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Import Expense Polizas'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Import Expense Polizas'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Import Stickers'">
