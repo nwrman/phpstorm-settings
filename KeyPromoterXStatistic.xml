@@ -1409,6 +1409,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_single_expense'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_single_expense'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PolizaTest.it_creates_reembolso_caja_chica_with_cfdi_with_no_folio'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
