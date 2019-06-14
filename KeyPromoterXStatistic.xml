@@ -6,7 +6,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -126,6 +126,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Old Export Expense'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_two_expenses'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_two_expenses'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -561,12 +569,28 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PolizaExpenseImporterTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'PolizaExpenseImporterTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_single_expense'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_single_expense'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_two_expenses'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_two_expenses'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PolizaTest.it_creates_reembolso_caja_chica_with_discount'">
@@ -950,7 +974,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>295</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Cancel Expense Poliza'">
@@ -1422,7 +1446,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_single_expense'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_two_expenses'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'PolizaExpenseImporterTest.it_imports_two_rows_single_poliza_two_expenses'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PolizaTest.it_creates_reembolso_caja_chica_with_cfdi_with_no_folio'">
