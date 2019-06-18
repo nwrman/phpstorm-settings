@@ -10,6 +10,9 @@
       <webServer id="cc9d482c-dbf6-4c20-9309-740027a6d9c0" name="mapo.test" url="http://mapo.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ee0764cd-4328-4492-8531-401d1d798f97" name="vissio" url="http://vissio.web">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
