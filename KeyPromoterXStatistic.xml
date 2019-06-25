@@ -857,6 +857,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncInvoice19Test.it_updates_poliza_invoice_with_two_payments_and_two_invoices_with_same_bank_transaction_id'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncInvoice19Test.it_updates_poliza_invoice_with_two_payments_and_two_invoices_with_same_bank_transaction_id'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SyncInvoiceTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -982,7 +990,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>345</Count>
+          <Count>347</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Cancel Expense Poliza'">
@@ -1718,7 +1726,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SyncInvoice19Test.it_updates_poliza_invoice_with_two_payments_and_two_invoices_with_same_bank_transaction_id'</Description>
-          <Count>2</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SyncInvoiceTest'">
