@@ -1713,6 +1713,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SyncInvoice19Test.it_updates_poliza_invoice_with_two_payments_and_two_invoices_with_same_bank_transaction_id'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SyncInvoice19Test.it_updates_poliza_invoice_with_two_payments_and_two_invoices_with_same_bank_transaction_id'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SyncInvoiceTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
