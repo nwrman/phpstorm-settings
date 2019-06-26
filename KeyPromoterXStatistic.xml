@@ -366,7 +366,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'CancelInvoicePolizaTest.it_can_cancel_poliza_Ig_linked_to_multiple_Invoices'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CancelPolizaTest.it_can_cancel_poliza_CP'">
@@ -998,7 +998,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>352</Count>
+          <Count>353</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Cancel Expense Poliza'">
@@ -1294,7 +1294,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'CancelInvoicePolizaTest.it_can_cancel_poliza_Ig_linked_to_multiple_Invoices'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CancelPolizaTest.it_can_cancel_poliza_CP'">
