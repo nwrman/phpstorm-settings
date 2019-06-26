@@ -22,7 +22,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -359,6 +359,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'CancelInvoicePolizaTest.it_can_cancel_poliza_FA_and_Ig'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CancelInvoicePolizaTest.it_can_cancel_poliza_Ig_linked_to_multiple_Invoices'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'CancelInvoicePolizaTest.it_can_cancel_poliza_Ig_linked_to_multiple_Invoices'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CancelPolizaTest.it_can_cancel_poliza_CP'">
@@ -990,7 +998,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>351</Count>
+          <Count>352</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Cancel Expense Poliza'">
@@ -1279,6 +1287,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'CancelInvoicePolizaTest.it_can_cancel_poliza_FA_2019'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CancelInvoicePolizaTest.it_can_cancel_poliza_Ig_linked_to_multiple_Invoices'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CancelInvoicePolizaTest.it_can_cancel_poliza_Ig_linked_to_multiple_Invoices'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CancelPolizaTest.it_can_cancel_poliza_CP'">
