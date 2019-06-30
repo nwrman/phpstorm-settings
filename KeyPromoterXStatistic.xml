@@ -1217,6 +1217,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'prod'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'prod'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'show_fields_when_cre...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1878,7 +1886,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'hot'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'index.php'">
