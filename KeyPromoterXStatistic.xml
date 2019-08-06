@@ -713,6 +713,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SyncExpense19Test.it_can_export_in_counter_favor_advance_to_collaborators_with_Ig'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SyncExpense19Test.it_can_export_in_counter_favor_advance_to_collaborators_with_Ig'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SyncExpense19Test.it_can_sync_CP_expense'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
