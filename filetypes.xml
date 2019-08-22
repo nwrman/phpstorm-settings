@@ -6,6 +6,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="info" type="Ini" />
       <mapping pattern="ExportExpense.bak" type="PHP" />
+      <mapping pattern="Magento_Checkout/layout" type="PHP" />
       <mapping pattern="Observers\QuoteObserver" type="PHP" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
