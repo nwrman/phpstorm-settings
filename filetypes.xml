@@ -8,9 +8,9 @@
       <mapping pattern="ExportExpense.bak" type="PHP" />
       <mapping pattern="Magento_Checkout/layout" type="PHP" />
       <mapping pattern="Observers\QuoteObserver" type="PHP" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
