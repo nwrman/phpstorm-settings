@@ -16,6 +16,7 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="child" type="PLAIN_TEXT" />
       <mapping pattern="*.kml.stub" type="XML" />
+      <mapping pattern=".phpcs.xml.dist" type="XML" />
       <mapping ext="pol" type="XML" />
       <mapping ext="kml" type="XML" />
     </extensionMap>
