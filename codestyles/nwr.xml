@@ -159,7 +159,6 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
-    <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
   </JSCodeStyleSettings>
   <MSSQLCodeStyleSettings version="0">
     <option name="myVersion" value="0" />
