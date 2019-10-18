@@ -5,20 +5,22 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="info" type="Ini" />
-      <mapping pattern="ExportExpense.bak" type="PHP" />
+      <mapping ext="cnf" type="Ini" />
       <mapping pattern="Magento_Checkout/layout" type="PHP" />
+      <mapping pattern="ExportExpense.bak" type="PHP" />
       <mapping pattern="Observers\QuoteObserver" type="PHP" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="child" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping pattern="*.kml.stub" type="XML" />
       <mapping pattern=".phpcs.xml.dist" type="XML" />
       <mapping ext="pol" type="XML" />
       <mapping ext="kml" type="XML" />
+      <removed_mapping ext="cnf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".cnf" approved="true" type="Ini" />
     </extensionMap>
   </component>
 </application>
