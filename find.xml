@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app\Http\Controllers\Auth\LoginController.php'" />
-    <option name="defaultScopeName" value="File '...\app\Http\Controllers\Auth\LoginController.php'" />
-    <option name="SEARCH_SCOPE" value="File '...\app\Http\Controllers\Auth\LoginController.php'" />
+    <option name="customScope" value="File '...\tests\Feature\AuthTest.php'" />
+    <option name="defaultScopeName" value="File '...\tests\Feature\AuthTest.php'" />
+    <option name="SEARCH_SCOPE" value="File '...\tests\Feature\AuthTest.php'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
