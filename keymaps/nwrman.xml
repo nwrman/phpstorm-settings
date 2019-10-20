@@ -141,6 +141,9 @@
   <action id="JumpToLastWindow" />
   <action id="NextOccurence" />
   <action id="ParameterInfo" />
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
   <action id="PreviousOccurence" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
