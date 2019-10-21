@@ -29,4 +29,10 @@
       <option name="PHP Comment" value="false" />
     </context>
   </template>
+  <template name="clo" value="static function($SUBJECT$){&#10;    $END$&#10;}" description="Closure" toReformat="false" toShortenFQNames="true">
+    <variable name="SUBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
