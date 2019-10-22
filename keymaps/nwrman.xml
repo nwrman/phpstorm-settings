@@ -137,6 +137,9 @@
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
   <action id="IpnbRunCellInplaceAction" />
   <action id="JumpToLastWindow" />
   <action id="NextOccurence" />
