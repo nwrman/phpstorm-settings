@@ -52,8 +52,10 @@
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
+            <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imagick" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
@@ -67,6 +69,7 @@
             <extension name="readline" />
             <extension name="session" />
             <extension name="soap" />
+            <extension name="sodium" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
