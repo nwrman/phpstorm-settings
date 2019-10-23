@@ -159,6 +159,9 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="ctrl 5" />
   </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="ctrl t" />
