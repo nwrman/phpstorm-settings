@@ -48,13 +48,6 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Debug" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="PhpListenDebugAction" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
