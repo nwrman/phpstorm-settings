@@ -19,12 +19,13 @@
       <interpreter id="173fe5ef-78db-4d8c-b97d-bd49c8cacbb8" name="PHP 5.6" home="C:\etc\httpd\php56\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\httpd\php56\ext\php_xdebug-2.5.5-5.6-vc11-x86_64.dll" />
       <interpreter id="431b1daa-4eca-44eb-b2d7-4cfdd367214a" name="PHP 7.2 (x86)" home="C:\etc\httpd\php72_x86\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\httpd\php72_x86\ext\php_xdebug-2.6.1-7.2-vc15-nts.dll" />
       <interpreter id="6a833dd6-6c92-4333-9116-693af4337178" name="PHP 7.3" home="C:\etc\httpd\php73\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\httpd\php73\ext\php_xdebug-2.7.0-7.3-vc15-x86_64.dll" />
+      <interpreter id="8c1fbf03-4507-4e3e-8e1e-04c90306b586" name="PHP 7.4" home="C:\etc\httpd\php74\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="C:\etc\httpd\php73\php-cgi.exe" php_cli="C:\etc\httpd\php73\php.exe" path_separator=";" version="7.3.4">
+        <phpinfo binary_type="PHP" php_cgi="C:\etc\httpd\php73\php-cgi.exe" php_cli="C:\etc\httpd\php73\php.exe" path_separator=";" version="7.3.12">
           <additional_php_ini />
           <configuration_file>C:\etc\httpd\php73\php.ini</configuration_file>
           <configuration_options>
@@ -134,7 +135,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="C:\etc\httpd\php72\php-cgi.exe" php_cli="C:\etc\httpd\php72\php.exe" path_separator=";" version="7.2.6">
+        <phpinfo binary_type="PHP" php_cgi="C:\etc\httpd\php72\php-cgi.exe" php_cli="C:\etc\httpd\php72\php.exe" path_separator=";" version="7.2.25">
           <additional_php_ini />
           <configuration_file>C:\etc\httpd\php72\php.ini</configuration_file>
           <configuration_options>
@@ -158,11 +159,13 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
+            <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imagick" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
@@ -172,6 +175,8 @@
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pdo_sqlsrv" />
             <extension name="readline" />
             <extension name="session" />
             <extension name="soap" />
