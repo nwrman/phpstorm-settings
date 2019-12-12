@@ -4,6 +4,8 @@
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
   <component name="DefaultFont">
@@ -24,5 +26,8 @@
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
+  </component>
+  <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
+    <option name="autoAliasTable" value="true" />
   </component>
 </application>
