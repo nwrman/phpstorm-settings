@@ -217,8 +217,7 @@
     <option name="FROM_EL_WRAP" value="2" />
     <option name="FROM_EL_COMMA" value="2" />
     <option name="FROM_PLACE_ON" value="10" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
+    <option name="WHERE_EL_LINE" value="101" />
     <option name="ORDER_EL_COMMA" value="2" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
