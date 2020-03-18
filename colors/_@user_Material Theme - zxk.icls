@@ -1,11 +1,16 @@
 <scheme name="_@user_Material Theme - zxk " version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-08-28T16:54:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-28T16:59:18</property>
+    <property name="modified">2020-03-18T12:01:37</property>
     <property name="originalScheme">Material Theme - zxk</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.3" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="445d63" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
