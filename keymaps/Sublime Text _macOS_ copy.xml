@@ -1,0 +1,10 @@
+<keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+</keymap>
