@@ -1,9 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="3c89e9" />
+    <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
+    <option name="accentColor" value="186c96" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-46ee9de3:16cda393769:-8000" />
-    <option name="version" value="4.4.6" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
