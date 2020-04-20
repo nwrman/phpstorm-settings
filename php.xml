@@ -133,7 +133,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="C:\etc\httpd\php74\php-cgi.exe" php_cli="C:\etc\httpd\php74\php.exe" path_separator=";" version="7.4.0">
+        <phpinfo binary_type="PHP" php_cgi="C:\etc\httpd\php74\php-cgi.exe" php_cli="C:\etc\httpd\php74\php.exe" path_separator=";" version="7.4.2">
           <additional_php_ini />
           <configuration_file>C:\etc\httpd\php74\php.ini</configuration_file>
           <configuration_options>
