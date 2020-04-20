@@ -5,6 +5,7 @@
   <action id="CakeStorm.HorizontalSmartJump" />
   <action id="CakeStorm.SmartJump" />
   <action id="CakeStorm.VerticalSmartJump" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -137,17 +138,22 @@
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceParameter" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
   <action id="IpnbRunCellInplaceAction" />
   <action id="JumpToLastWindow" />
+  <action id="Laravel.ExtractPartialView" />
   <action id="NextOccurence" />
   <action id="ParameterInfo" />
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="PreviousOccurence" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -176,6 +182,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShowBookmarks" />
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -195,6 +202,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
