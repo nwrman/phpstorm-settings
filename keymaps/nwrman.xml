@@ -148,6 +148,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="PreviousOccurence" />
+  <action id="ReformatCode" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
