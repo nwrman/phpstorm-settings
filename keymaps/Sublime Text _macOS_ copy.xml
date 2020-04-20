@@ -14,4 +14,7 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
 </keymap>
