@@ -1,12 +1,20 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
     <option name="contrastMode" value="true" />
     <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
-    <option name="accentColor" value="009688" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="accentColor" value="1392ff" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-46ee9de3:16cda393769:-8000" />
     <option name="version" value="5.2.0" />
   </component>
