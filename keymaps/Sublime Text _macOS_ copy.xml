@@ -17,4 +17,7 @@
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="ctrl meta enter" />
+  </action>
 </keymap>
