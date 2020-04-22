@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.spec" />
+    <option name="FILE_MASK" value="*.spec.ts" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -17,5 +17,6 @@
     <mask>*.html</mask>
     <mask>*spec*</mask>
     <mask>*.spec</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>
