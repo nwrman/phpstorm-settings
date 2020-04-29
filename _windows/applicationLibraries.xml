@@ -151,17 +151,6 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="paper-css" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_paper-css_0.3.0_paper.css" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_paper-css_0.3.0_paper.css" />
-      </CLASSES>
-      <SOURCES />
-    </library>
     <library name="plyr" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -192,17 +181,6 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_limonte-sweetalert2_6.6.9_sweetalert2.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="tailwindcss" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tailwindcss@^1.0_dist_tailwind.css" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tailwindcss@^1.0_dist_tailwind.css" />
       </CLASSES>
       <SOURCES />
     </library>
