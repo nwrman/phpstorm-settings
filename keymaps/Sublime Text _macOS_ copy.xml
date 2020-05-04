@@ -14,7 +14,12 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
-  <action id="Refactorings.QuickListPopupAction" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt l" />
