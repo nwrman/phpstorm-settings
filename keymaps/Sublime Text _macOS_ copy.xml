@@ -3,6 +3,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="CallHierarchy" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
@@ -26,6 +27,9 @@
   </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="ctrl t" />
