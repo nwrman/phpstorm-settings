@@ -1,0 +1,10 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/ECMAScript 6/Create getter and setter" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Create getter" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Create setter" />
+    <ignoreAction name="TypeScript/Make 'private'" />
+    <ignoreAction name="TypeScript/Make 'protected'" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Make private using '#'" />
+  </component>
+</application>
