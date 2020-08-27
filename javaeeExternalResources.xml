@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.2/extResources/70e3a855_oasis-200401-wss-wssecurity-utility-1.0.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.2/extResources/9b192256_xml.xsd" />
+    <resource url="http://www.w3.org/2003/05/soap-envelope" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.2/extResources/d6567222_soap-envelope.xml" />
+    <ignored-resource url="http://InsuranceTechnologies.com/Acord/ServiceContracts/V2_23_0/" />
+    <ignored-resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" />
+    <ignored-resource url="http://schemas.datacontract.org/2004/07/InsTech.EverGreen.Service" />
+    <ignored-resource url="http://www.w3.org/2005/08/addressing" />
+  </component>
+</application>
