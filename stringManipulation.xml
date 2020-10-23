@@ -2,7 +2,8 @@
   <component name="StringManipulationState">
     <option name="sortSettings">
       <SortSettings>
-        <option name="sortType" value="LINE_LENGTH_SHORT_LONG" />
+        <option name="baseComparator" value="LOCALE_COLLATOR" />
+        <option name="sortType" value="CASE_INSENSITIVE_Z_A" />
       </SortSettings>
     </option>
     <option name="version" value="1" />
