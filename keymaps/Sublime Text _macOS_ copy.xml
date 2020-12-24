@@ -10,6 +10,9 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
