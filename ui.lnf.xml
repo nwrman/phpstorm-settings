@@ -1,7 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="EDITOR_TAB_LIMIT" value="12" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
