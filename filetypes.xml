@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.lock;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;mix.json;node-modules;package-lock.json;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.lock;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;mix.json;node-modules;package-lock.json;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping ext="cnf" type="Ini" />
@@ -18,11 +18,8 @@
       <mapping pattern=".phpcs.xml.dist" type="XML" />
       <mapping ext="pol" type="XML" />
       <mapping ext="kml" type="XML" />
-      <mapping pattern="*playbook.yml" type="YAML" />
-      <mapping pattern="*playbook.yaml" type="YAML" />
-      <mapping pattern="main.yml" type="YAML" />
-      <mapping pattern="main.yaml" type="YAML" />
       <removed_mapping ext="cnf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".cnf" approved="true" type="Ini" />
     </extensionMap>
   </component>
