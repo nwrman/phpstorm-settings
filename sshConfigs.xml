@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="oigadr.com" id="0d545d37-303f-4f16-a094-9da7c71f5915" keyPath="$USER_HOME$/.ssh/id_rsa_nwr" port="22" nameFormat="DESCRIPTIVE" username="web" />
+    </configs>
+  </component>
+</application>
