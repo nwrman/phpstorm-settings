@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fe32903f-5676-4783-b2eb-5c15266c7966" name="Universo" url="https://universodeletras.unam.mx">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="universodeletras.unam.mx" port="22" sshConfigId="d8a494c8-8f1b-44a9-9c48-4e8eeae0b76b" sshConfig="web@universodeletras.unam.mx:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
