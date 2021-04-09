@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="universodeletras.unam.mx" id="d8a494c8-8f1b-44a9-9c48-4e8eeae0b76b" port="22" nameFormat="DESCRIPTIVE" username="web" />
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="universodeletras.unam.mx" id="d8a494c8-8f1b-44a9-9c48-4e8eeae0b76b" port="22" nameFormat="DESCRIPTIVE" username="web" />
     </configs>
   </component>
 </application>
