@@ -3,7 +3,6 @@
     <option name="customScope" value="BBML" />
     <option name="defaultScopeName" value="BBML" />
     <option name="SEARCH_SCOPE" value="BBML" />
-    <option name="FILE_MASK" value="*.css, *.scss" />
     <mask>*spec*</mask>
     <mask>*.spec</mask>
     <mask>*.spec.ts</mask>
