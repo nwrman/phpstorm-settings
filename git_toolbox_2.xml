@@ -1,8 +1,10 @@
 <application>
   <component name="GitToolBoxAppSettings2">
     <option name="absoluteDateTimeStyle" value="YMD_TIME" />
+    <option name="autoFetchEnabled" value="false" />
+    <option name="autoFetchOnBranchSwitch" value="false" />
     <option name="blameInlineAuthorNameType" value="FULL" />
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="4" />
+    <option name="version" value="5" />
   </component>
 </application>

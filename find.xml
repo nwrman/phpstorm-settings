@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Ultra UI" />
+    <option name="defaultScopeName" value="Ultra UI" />
+    <option name="SEARCH_SCOPE" value="Ultra UI" />
     <mask>*spec*</mask>
     <mask>*.spec</mask>
     <mask>*.spec.ts</mask>
