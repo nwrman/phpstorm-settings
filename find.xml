@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Ultra UI" />
-    <option name="defaultScopeName" value="Ultra UI" />
-    <option name="SEARCH_SCOPE" value="Ultra UI" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*spec*</mask>
     <mask>*.spec</mask>
     <mask>*.spec.ts</mask>
@@ -20,10 +21,10 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.php</mask>
     <mask>*.css, *.scss</mask>
     <mask>*.tsx</mask>
     <mask>*.js</mask>
     <mask>*.yaml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
