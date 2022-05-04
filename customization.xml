@@ -39,6 +39,12 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="com.intellij.space.vcs.actions.SpaceMainToolBarAction" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="space.actions.MainToolbarActionGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Debug" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
