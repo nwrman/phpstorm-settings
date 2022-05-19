@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
