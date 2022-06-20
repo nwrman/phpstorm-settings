@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
+      <mapping ext="xls" type="CSV/TSV" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
