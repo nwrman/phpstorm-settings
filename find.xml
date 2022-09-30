@@ -3,6 +3,7 @@
     <option name="customScope" value="discussion" />
     <option name="defaultScopeName" value="discussion" />
     <option name="SEARCH_SCOPE" value="discussion" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>*spec*</mask>
     <mask>*.spec</mask>
     <mask>*.spec.ts</mask>
@@ -26,5 +27,6 @@
     <mask>*_test.ts</mask>
     <mask>*.php</mask>
     <mask>*.html</mask>
+    <mask>*test*</mask>
   </component>
 </application>
