@@ -27,5 +27,6 @@
     <mask>*.php</mask>
     <mask>*.html</mask>
     <mask>*test*</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
