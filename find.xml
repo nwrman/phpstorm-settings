@@ -28,5 +28,6 @@
     <mask>*test*</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
