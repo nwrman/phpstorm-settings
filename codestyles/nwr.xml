@@ -503,9 +503,15 @@
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
-    <option name="XML_ATTRIBUTE_WRAP" value="2" />
+    <option name="XML_KEEP_WHITESPACES" value="true" />
+    <option name="XML_ATTRIBUTE_WRAP" value="4" />
+    <option name="XML_TEXT_WRAP" value="0" />
+    <option name="XML_SPACE_AFTER_TAG_NAME" value="true" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="Dart">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
