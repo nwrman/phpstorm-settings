@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.styles*" />
     <mask>*spec*</mask>
     <mask>*.spec</mask>
     <mask>*.spec.ts</mask>
@@ -30,5 +30,6 @@
     <mask>*.php</mask>
     <mask>*.tpl</mask>
     <mask>*.tsx</mask>
+    <mask>*.styles*</mask>
   </component>
 </application>
