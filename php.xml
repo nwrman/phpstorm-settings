@@ -4,7 +4,7 @@
     <interpreters>
       <interpreter id="dff98f0a-0670-4257-801c-9da1bf8a592c" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.34_4/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="17c9d2cb-bec4-4db7-9955-3397be5c934d" name="PHP 8.0" home="/usr/local/Cellar/php@8.0/8.0.20/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="1df566b5-6137-4035-95e7-1a11cc6c67df" name="PHP 8.1" home="/usr/local/Cellar/php/8.1.7/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="1df566b5-6137-4035-95e7-1a11cc6c67df" name="PHP 8.1" home="/usr/local/Cellar/php@8.1/8.1.16/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="3275d16e-c942-447e-8d2e-f0a011489233" name="PHP 7.0" home="/usr/local/Cellar/php@7.0/7.0.33_5/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="aa835057-634e-43a3-8dff-8a2e65a18b80" name="PHP 7.3" home="/usr/local/Cellar/php@7.3/7.3.33_2/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
@@ -259,14 +259,14 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 8.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.7/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.7/bin/php" path_separator=":" version="8.1.7">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@8.1/8.1.16/bin/php-cgi" php_cli="/usr/local/Cellar/php@8.1/8.1.16/bin/php" path_separator=":" version="8.1.16">
           <additional_php_ini>/usr/local/etc/php/8.1/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.7/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@8.1/8.1.16/share/php@8.1/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.1.3">
+            <debugger_info debugger="xdebug" debugger_version="3.2.0">
               <debug_extensions />
             </debugger_info>
           </debuggers>
