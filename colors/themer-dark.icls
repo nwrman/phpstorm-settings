@@ -25,27 +25,28 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="222323" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="222323" />
     <option name="DOCUMENTATION_COLOR" value="3d3e3e" />
-    <option name="FILESTATUS_ADDED" value="62ba46" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="62ba46" />
-    <option name="FILESTATUS_DELETED" value="575858" />
-    <option name="FILESTATUS_HIJACKED" value="fbb927" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="575858" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="727373" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f74f9e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f74f9e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f74f9e" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="62ba46" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="727373" />
-    <option name="FILESTATUS_MERGED" value="a550a7" />
-    <option name="FILESTATUS_MODIFIED" value="7aff" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="7aff" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="7aff" />
-    <option name="FILESTATUS_SUPPRESSED" value="575858" />
-    <option name="FILESTATUS_SWITCHED" value="a550a7" />
-    <option name="FILESTATUS_UNKNOWN" value="f7821c" />
-    <option name="FILESTATUS_addedOutside" value="62ba46" />
-    <option name="FILESTATUS_changelistConflict" value="f74f9e" />
-    <option name="FILESTATUS_modifiedOutside" value="62ba46" />
+    <option name="FILESTATUS_MERGED" value="9876aa" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="629755" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="222323" />
     <option name="INDENT_GUIDE" value="3d3e3e" />
     <option name="INFORMATION_HINT" value="3d3e3e" />
@@ -1273,14 +1274,6 @@
         <option name="ERROR_STRIPE_COLOR" value="575858" />
       </value>
     </option>
-    <option name="IGNORE.BRACKET" baseAttributes="" />
-    <option name="IGNORE.COMMENT" baseAttributes="" />
-    <option name="IGNORE.HEADER" baseAttributes="" />
-    <option name="IGNORE.NEGATION" baseAttributes="" />
-    <option name="IGNORE.SECTION" baseAttributes="" />
-    <option name="IGNORE.SLASH" baseAttributes="" />
-    <option name="IGNORE.SYNTAX" baseAttributes="" />
-    <option name="IGNORE.VALUE" baseAttributes="" />
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fbb927" />
