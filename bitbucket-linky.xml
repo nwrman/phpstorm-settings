@@ -12,5 +12,5 @@
       <record scheme="ssh" hostname="stash.bbpd.io" port="-1" path="/" uuid="07951ff5-502c-3714-b6f9-8b66b7adb21c" />
     </lookup>
   </component>
-  <component name="Instance" id="c60b277f-14cb-4f10-ac4e-111803df6054" version="2022.1.220" />
+  <component name="Instance" id="c60b277f-14cb-4f10-ac4e-111803df6054" version="2022.1.224" />
 </application>

@@ -1,8 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
-    <option name="compactStatusBar" value="true" />
-    <option name="contrastMode" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -14,6 +11,6 @@
     <option name="accentColor" value="416a9b" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-46ee9de3:16cda393769:-8000" />
-    <option name="version" value="7.14.2" />
+    <option name="version" value="8.6.0" />
   </component>
 </application>
