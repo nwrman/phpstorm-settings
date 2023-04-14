@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_test*" />
     <mask>*spec*</mask>
     <mask>*.spec</mask>
     <mask>*.spec.ts</mask>
@@ -31,5 +32,6 @@
     <mask>*.styles*</mask>
     <mask>*.tsx</mask>
     <mask>*.test.tsx</mask>
+    <mask>*_test*</mask>
   </component>
 </application>
