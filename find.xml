@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/apps/ultra-ui/app/components/services/mobile-app/mobile-event-handler-service_test.ts'" />
-    <option name="defaultScopeName" value="File '…/apps/ultra-ui/app/components/services/mobile-app/mobile-event-handler-service_test.ts'" />
-    <option name="SEARCH_SCOPE" value="File '…/apps/ultra-ui/app/components/services/mobile-app/mobile-event-handler-service_test.ts'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*test*" />
     <mask>*spec*</mask>
     <mask>*.spec</mask>
