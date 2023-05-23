@@ -17,6 +17,10 @@
     <entry key="completion.stats.show.ml.ranking.diff" value="true" />
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="ide.tree.collapse.recursively" value="false" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="777777" />
+    <entry key="editor.focus.mode.color.dark" value="777777" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
