@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>*spec*</mask>
     <mask>*.spec</mask>
     <mask>*.spec.ts</mask>
@@ -32,8 +33,8 @@
     <mask>*.test.tsx</mask>
     <mask>*_test*</mask>
     <mask>*directive_test*</mask>
-    <mask>*test*</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
+    <mask>*test*</mask>
   </component>
 </application>
