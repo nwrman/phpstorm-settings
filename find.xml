@@ -3,6 +3,7 @@
     <option name="customScope" value="Ultra UI" />
     <option name="defaultScopeName" value="Ultra UI" />
     <option name="SEARCH_SCOPE" value="Ultra UI" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>*spec*</mask>
     <mask>*.spec</mask>
     <mask>*.spec.ts</mask>
