@@ -28,6 +28,10 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Vcs.Operations.Popup" is_group="true" forse_popup="false" action_type="-1" position="18">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.Log.ChangesBrowser.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="18">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -37,6 +41,10 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.Operations.Popup" is_group="true" forse_popup="false" action_type="-1" position="18">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Log.Toolbar.RightCorner" is_group="true" forse_popup="false" action_type="-1" position="17">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -52,6 +60,10 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Vcs.Log.ChangesBrowser.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="16">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="StringManipulation.Group.SwitchCase" is_group="true" forse_popup="false" action_type="-1" position="16">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -64,6 +76,10 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ChangesViewToolbar" is_group="true" forse_popup="false" action_type="-1" position="15">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="StringManipulation.Group.Main" is_group="true" forse_popup="false" action_type="-1" position="15">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -73,6 +89,10 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="StringManipulation.Group.SwitchCase" is_group="true" forse_popup="false" action_type="-1" position="15">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunTab.TopToolbar.Old" is_group="true" forse_popup="false" action_type="-1" position="14">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -105,11 +125,19 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Vcs.FileHistory.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="12">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="XDebugger.ToolWindow.TopToolbar3" is_group="true" forse_popup="false" action_type="-1" position="12">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="XDebugger.Watches.Tree.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="12">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.Watches.Tree.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="11">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -129,6 +157,10 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="XDebugger.ToolWindow.TopToolbar" is_group="true" forse_popup="false" action_type="-1" position="10">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NavBarToolBar" is_group="true" forse_popup="false" action_type="-1" position="10">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -141,8 +173,22 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="space.actions.MainToolbarActionGroup" is_group="true" forse_popup="false" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.ToolWindow.LeftToolbar" is_group="true" forse_popup="false" action_type="-1" position="9">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NavbarPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="9">
       <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SettingsEntryPoint" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ScopeViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="8">
@@ -156,6 +202,15 @@
     </group>
     <group value="NavbarPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="8">
       <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavbarPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="7">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NavbarPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="7">
@@ -179,6 +234,15 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScopeViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="6">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="EditorTabPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="6">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -188,17 +252,8 @@
       <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ScopeViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="6">
-      <path value="root" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ProjectViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="5">
       <path value="root" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="EditorGutterPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="5">
@@ -209,6 +264,11 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="EditorPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="4">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -217,7 +277,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="3">
+    <group value="NavBarVcsGroup" is_group="true" forse_popup="false" action_type="-1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -231,11 +291,6 @@
     </group>
     <group value="EditorPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="2">
       <path value="root" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NavBarVcsGroup" is_group="true" forse_popup="false" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Coverage" is_action="true" action_type="-1" position="2">
@@ -270,6 +325,13 @@
     </group>
     <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CWMHostShowPopupAction" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="CodeWithMeNavbarGroup" />
+      <path value="CWMShowPopupActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RunConfiguration" is_action="true" action_type="-1" position="0">
