@@ -1,8 +1,8 @@
-<code_scheme name="Default (2)">
-  <JSCodeStyleSettings>
+<code_scheme name="Default (2)" version="173">
+  <JSCodeStyleSettings version="0">
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
   </JSCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="HTML">
