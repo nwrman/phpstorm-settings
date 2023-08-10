@@ -7,6 +7,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="ENABLE_SECOND_REFORMAT" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="CodeVisionSettings">

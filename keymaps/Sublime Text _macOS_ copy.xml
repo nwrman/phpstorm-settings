@@ -35,6 +35,9 @@
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -51,6 +54,7 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="StartStopMacroRecording" />
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
