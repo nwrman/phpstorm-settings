@@ -28,9 +28,7 @@
     <option name="widgets">
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
-        <entry key="Encoding" value="false" />
         <entry key="GridAggregator" value="false" />
-        <entry key="LineSeparator" value="false" />
         <entry key="Notifications" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="SinkLocale" value="false" />
