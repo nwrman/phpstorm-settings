@@ -62,6 +62,9 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value=".inheritors" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
     <option name="COLLAPSE_IMPORTS" value="false" />
