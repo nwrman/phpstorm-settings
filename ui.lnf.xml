@@ -9,5 +9,6 @@
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="UI_DENSITY" value="COMPACT" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
   </component>
 </application>
