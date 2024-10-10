@@ -1,0 +1,10 @@
+<application>
+  <component name="co.fitten.llmintellij.LlmSettingsState">
+    <option name="userData">
+      <UserData>
+        <option name="apiKey" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnb29nbGUuY29tX253cm1hbkBnbWFpbC5jb20iLCJleHAiOjE3MjkxNDM2MTV9.Tv9IjCyt65sHEkZ1lAvOix5kLqPKNEUYyeK_bnwdMA8" />
+        <option name="panelState" value="{&quot;type&quot;:&quot;chat&quot;,&quot;conversations&quot;:[{&quot;id&quot;:&quot;hu0t2ym57&quot;,&quot;header&quot;:{&quot;title&quot;:&quot;New Chat&quot;,&quot;isTitleMessage&quot;:false,&quot;codicon&quot;:&quot;comment-discussion&quot;},&quot;content&quot;:{&quot;type&quot;:&quot;messageExchange&quot;,&quot;messages&quot;:[],&quot;state&quot;:{&quot;type&quot;:&quot;userCanReply&quot;,&quot;responsePlaceholder&quot;:&quot;Ask…&quot;}},&quot;inputs&quot;:&quot;&lt;|system|&gt;\nReply same language as the user's input.\n&lt;|end|&gt;\n&quot;,&quot;mode&quot;:&quot;chat&quot;}],&quot;selectedConversationId&quot;:&quot;hu0t2ym57&quot;,&quot;hasFittenAIApiKey&quot;:true,&quot;surfacePromptForFittenAIPlus&quot;:false,&quot;fittenAIApiKey&quot;:&quot;eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnb29nbGUuY29tX253cm1hbkBnbWFpbC5jb20iLCJleHAiOjE3MjkxNDM2MTV9.Tv9IjCyt65sHEkZ1lAvOix5kLqPKNEUYyeK_bnwdMA8&quot;}" />
+      </UserData>
+    </option>
+  </component>
+</application>
