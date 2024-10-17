@@ -9,6 +9,7 @@
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
+    <option name="REMEMBER_SIZE_FOR_EACH_TOOL_WINDOW_NEW_UI" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
   </component>
 </application>
