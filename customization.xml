@@ -240,6 +240,11 @@
     <group value="EditorTabPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="4">
       <path value="root" />
     </group>
+    <group value="CodeWithMeToolbarGroupNewUi" is_group="true" forse_popup="false" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+    </group>
     <group seperator="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -249,6 +254,11 @@
     </group>
     <group value="EditorGutterPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="3">
       <path value="root" />
+    </group>
+    <group value="AIAssistantHubPopupAction" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
     </group>
     <group value="NavBarVcsGroup" is_group="true" forse_popup="false" action_type="-1" position="3">
       <path value="root" />
