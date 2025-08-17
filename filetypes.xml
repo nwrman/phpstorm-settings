@@ -31,6 +31,8 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping pattern=".cnf" approved="true" type="Ini" />
       <removed_mapping pattern=".cnf" approved="true" type="Ini" />
