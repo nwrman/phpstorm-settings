@@ -2,10 +2,11 @@
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
     <option name="enableCompletions" value="false" />
-    <disabledLanguages>
-      <option value="Blade" />
-    </disabledLanguages>
+    <languageAllowList>
+      <map>
+        <entry key="Blade" value="false" />
+      </map>
+    </languageAllowList>
     <option name="checkForUpdate" value="false" />
-    <option name="telemetryTermsAcceptedDate" value="2022-05-28T00:21:49.703896-05:00[America/Mexico_City]" />
   </component>
 </application>
