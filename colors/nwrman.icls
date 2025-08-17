@@ -1505,7 +1505,7 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG_DATA">
       <value>
         <option name="FONT_TYPE" value="1" />
