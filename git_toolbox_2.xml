@@ -4,7 +4,9 @@
     <option name="autoFetchEnabled" value="false" />
     <option name="autoFetchOnBranchSwitch" value="false" />
     <option name="behindTracker" value="false" />
+    <option name="blameInlineAuthorNameType" value="FULL" />
     <option name="previousVersionMigrated" value="true" />
+    <option name="showBlameWidget" value="false" />
     <option name="showChangesInStatusBar" value="false" />
     <option name="showStatusWidget" value="false" />
     <option name="version" value="6" />

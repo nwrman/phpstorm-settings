@@ -1,5 +1,0 @@
-<application>
-  <component name="laravelTinker">
-    <option name="migrateVersion" value="3.0.0" />
-  </component>
-</application>
