@@ -2,6 +2,5 @@
   <component name="GitToolBoxBlameAppConfig">
     <option name="blameInlineAuthorNameType" value="FULL" />
     <option name="showBlameWidget" value="false" />
-    <option name="version" value="2" />
   </component>
 </application>
