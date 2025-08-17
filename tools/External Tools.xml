@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Copy/Paste Detector (CPD)" description="phpcpd is a Copy/Paste Detector (CPD) for PHP code." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="\vendor\bin\phpcpd.bat" />
+      <option name="PARAMETERS" value="app" />
+      <option name="WORKING_DIRECTORY" value="C:/projects/canacar/backend-api.git" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,0 +1,45 @@
+<templateSet group="PHP">
+  <template name="errs" value="ini_set('display_errors', 1);&#10;ini_set('display_startup_errors', 1);&#10;error_reporting(E_ALL);" description="Show all errors" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="tst" value="/** @test */&#10;public function $NAME$(): void&#10;{&#10;    $END$&#10;}" description="test function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="ci" value="clock($END$);" description="Console info" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="du" value="!d($END$);die();" description="Dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fl" value="[&#10;    'name'  =&gt; '$NAME$',&#10;    'label' =&gt; '$LABEL$',&#10;    'type'  =&gt; '$TYPE$',&#10;]$END$" description="Backpack Field" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="phpVar" defaultValue="text" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+    </context>
+  </template>
+  <template name="clo" value="static function($SUBJECT$){&#10;    $END$&#10;}" description="Closure" toReformat="false" toShortenFQNames="true">
+    <variable name="SUBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="." value="-&gt;$END$" description="Arrow" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
