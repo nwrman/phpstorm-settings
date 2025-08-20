@@ -38,6 +38,7 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="RecentChanges" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -57,5 +58,9 @@
   <action id="StartStopMacroRecording" />
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="copilot.chat.show">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
 </keymap>

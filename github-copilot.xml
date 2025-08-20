@@ -4,6 +4,7 @@
     <option name="enableCompletions" value="false" />
     <languageAllowList>
       <map>
+        <entry key="*" value="true" />
         <entry key="Blade" value="false" />
       </map>
     </languageAllowList>
