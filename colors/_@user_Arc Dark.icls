@@ -315,7 +315,7 @@
         <option name="FOREGROUND" value="47bc9b" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.IMPORTANT" baseAttributes="" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="afc4db" />
@@ -336,7 +336,7 @@
         <option name="FOREGROUND" value="cf6a4c" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="5294e2" />
