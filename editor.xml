@@ -47,7 +47,7 @@
         <entry key="yamlEx" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_CARET_INSIDE_TABS" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
