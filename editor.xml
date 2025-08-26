@@ -17,6 +17,7 @@
         <option value="vcs.code.vision" />
       </set>
     </option>
+    <option name="enabled" value="false" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
     <option name="providerIdToEnabled">
@@ -60,6 +61,7 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value=".inheritors" />
   </component>
   <component name="InlineCompletionOnboarding">
