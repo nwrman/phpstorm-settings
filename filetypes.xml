@@ -5,6 +5,7 @@
       <mapping ext="xls" type="CSV/TSV" />
       <mapping ext="info" type="Ini" />
       <mapping ext="cnf" type="Ini" />
+      <mapping pattern="mcp.json" type="JSON5" />
       <mapping pattern="Magento_Checkout/layout" type="PHP" />
       <mapping pattern="ExportExpense.bak" type="PHP" />
       <mapping pattern="Observers\QuoteObserver" type="PHP" />
