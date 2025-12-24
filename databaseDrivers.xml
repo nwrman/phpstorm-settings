@@ -1,17 +1,17 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.40.1" />
+    </driver>
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)">
       <artifact id="SQL Server" name="SQL Server" use="true" version="7.0.0" />
     </driver>
     <driver id="sqlserver.jtds" name="SQL Server (jTds)" />
-    <driver id="sqlite.xerial" name="Sqlite (Xerial)">
-      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.40.1" />
-    </driver>
+    <driver id="sybase.ase" name="Sybase (Native)" />
     <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.3.3" />
     </driver>
     <driver id="mysql.8" dialect="MariaDB">
-      <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.2.0" />
       <artifact id="junixsocket-mysql" name="junixsocket-mysql" use="true" version="2.10.1" />
     </driver>
@@ -32,7 +32,6 @@
     <driver id="db2.jtopen" name="DB2 (JTOpen)" />
     <driver id="derby.embedded" name="Derby (Embedded)" />
     <driver id="derby.remote" name="Derby (Remote)" />
-    <driver id="sybase.ase" name="Sybase (Native)" />
     <driver id="3f0e5538-b8b8-46b9-a3dc-2a554a00f6ff" name="database driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
       <url-template name="default" template="jdbc:sqlite:!(:memory:){file::identifier.sqlite}?" />
       <url-template name="In-memory" template="jdbc:sqlite::memory:" />
