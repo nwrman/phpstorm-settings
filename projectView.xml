@@ -4,6 +4,7 @@
     <option name="autoscrollToSource" value="true" />
     <option name="compactDirectories" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
 </application>
