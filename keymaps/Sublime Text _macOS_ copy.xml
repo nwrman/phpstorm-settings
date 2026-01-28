@@ -63,6 +63,7 @@
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
+  <action id="Terminal.Escape" />
   <action id="copilot.chat.show">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
     <keyboard-shortcut first-keystroke="shift alt c" />
