@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="MyAccount" />
-    <option name="defaultScopeName" value="MyAccount" />
-    <option name="SEARCH_SCOPE" value="MyAccount" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*spec*</mask>
     <mask>*.spec</mask>
     <mask>*.spec.ts</mask>
