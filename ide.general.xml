@@ -32,6 +32,7 @@
         <entry key="mtProjectFactory" value="false" />
         <entry key="mtStatusBar" value="false" />
         <entry key="mtThemeFactory" value="false" />
+        <entry key="php.language.level.widget" value="false" />
       </map>
     </option>
   </component>
