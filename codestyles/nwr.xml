@@ -470,9 +470,6 @@
     <option name="XML_SPACE_AFTER_TAG_NAME" value="true" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="Dart">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
