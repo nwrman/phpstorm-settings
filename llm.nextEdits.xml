@@ -1,5 +1,15 @@
 <application>
   <component name="NextEditSettings"><![CDATA[{
-  "legacyMlCompletionResetApplied": true
+  "legacyMlCompletionResetApplied": true,
+  "languageToEnabled": {
+    "yaml": true,
+    "XML": true,
+    "Markdown": true,
+    "HTML": true,
+    "JSON": true,
+    "CSS": true,
+    "PHP": true,
+    "next.edit.js.group": true
+  }
 }]]></component>
 </application>
