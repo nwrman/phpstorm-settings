@@ -1,15 +1,18 @@
 <application>
-  <component name="NextEditSettings"><![CDATA[{
-  "legacyMlCompletionResetApplied": true,
-  "languageToEnabled": {
-    "yaml": true,
-    "XML": true,
-    "Markdown": true,
-    "HTML": true,
-    "JSON": true,
-    "CSS": true,
-    "PHP": true,
-    "next.edit.js.group": true
+  <component name="NextEditSettings">{
+  &quot;legacyMlCompletionResetApplied&quot;: true,
+  &quot;languageToEnabled&quot;: {
+    &quot;yaml&quot;: true,
+    &quot;XML&quot;: true,
+    &quot;Markdown&quot;: true,
+    &quot;HTML&quot;: true,
+    &quot;JSON&quot;: true,
+    &quot;CSS&quot;: true,
+    &quot;PHP&quot;: true,
+    &quot;next.edit.js.group&quot;: true
   }
-}]]></component>
+}</component>
+  <component name="NextEditUnifiedModelMigrationState">
+    <option name="migrationDone" value="true" />
+  </component>
 </application>
